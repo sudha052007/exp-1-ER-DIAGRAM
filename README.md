@@ -48,5 +48,4 @@ refers to (Order Item and Food Item): Each order item points back to a specific 
 
 -Table Numbers and customer details help map which customer or party is seated at a particular Table ID.
  
-
----
+ ---
